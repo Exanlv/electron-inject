@@ -1,0 +1,3 @@
+[submodule "src/inject/31338"]
+	path = src/inject/31338
+	url = git@github.com:Exanlv/electron-inject-spotify.git
